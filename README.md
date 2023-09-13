@@ -30,7 +30,7 @@
 	- Following Manual and RFE base feature selection, the following features were most significant in predicting the demand for shared bikes.
 		- Temperature, Windspeed, Season and Weather.
 
-- Linear Regression model with the above selected features yieled a r_square score of 0.76 on the test data 
+- Linear Regression model with the above selected features results in a r_square score of 0.76 on the test data 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -47,12 +47,12 @@
 
 ## Acknowledgements
 Give credit here.
-- This project was in contribution to Linear Refression Assignment on Bike Sharing systen by Upgrad.
+- This project was in contribution to Linear Refression Assignment on Bike Sharing system by Upgrad.
 
 
 
 ## Contact
-Created by [@ravman1991] - feel free to contact me!
+Created by [@RavMan1991] - feel free to contact me!
 
 
 <!-- Optional -->
